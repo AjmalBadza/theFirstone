@@ -5,4 +5,4 @@ green
 yellow
 orange
 red
-the colours of rainbow
+these are the colours of rainbow
