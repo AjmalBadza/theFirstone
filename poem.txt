@@ -3,6 +3,7 @@ indigo
 blue
 green
 yellow
+balsamic
 orange
 unicorn
 red
